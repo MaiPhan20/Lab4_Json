@@ -1,0 +1,34 @@
+{
+  "name": "survey1",
+  "displayName": "survey1",
+  "version": "survey1.2",
+  "description": "survey1 survey1",
+  "defaultLanguageCode": "EnglishUK",
+  "createDateTime": "23-May-2016",
+  "lastUpdateTime": "23-may-2016",
+  "keyId": "123",
+  "userAnswers": [
+    {
+      "UserID": "1",
+      "User name": "Timb",
+      "First name": "Tim",
+      "Last name": "Brown",
+      "questionAnswer": [
+        {
+          "question": "How is the water supply",
+          "answer": "Good",
+          "mandatoryFlag": "true",
+          "questionOptions": [
+            "Good",
+            "Bad",
+            "Worse"
+          ]
+        },
+        {
+          "question": "How is the gas supply",
+          "answer": "Worse"
+        }
+      ]
+    }
+  ]
+}
